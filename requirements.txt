@@ -1,0 +1,6 @@
+uvicorn
+openai
+docx
+nest_asyncio
+typing
+fastapi
